@@ -8,7 +8,7 @@ void swap(int* a, int* b) {
 	*b = tmp;
 }
 
-void print_arr(vector<int> &arr) {				//vector auto로는 못쓰는지 확인하기!
+void print_arr(vector<int> &arr) {				//how to use auto
 	for (int i = 0; i < arr.size(); i++) {
 		printf("%d", arr[i]);
 	}
