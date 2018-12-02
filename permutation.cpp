@@ -40,3 +40,5 @@ int main() {
 	return 0;
 
 }
+
+//if vector has same item(ex 1,1,2,3,4) how to remove?
